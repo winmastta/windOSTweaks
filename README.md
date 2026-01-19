@@ -1,4 +1,4 @@
-# <img width="45" height="45" alt="windOS Tweaks icon" src="https://github.com/user-attachments/assets/02bf031d-3e21-4adc-a278-305101508640" /> windOSTweaks
+# <img width="45" height="45" alt="windOS Tweaks icon" src="https://github.com/user-attachments/assets/02bf031d-3e21-4adc-a278-305101508640" /> windOS Tweaks
 
 A program for **tweaking**, **optimizing**, and **cleaning** your windOS.
 
