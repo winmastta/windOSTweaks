@@ -1,4 +1,5 @@
-*icon right there soon idk*
+<img width="100" height="100" alt="icons8-icloud-100" src="https://github.com/user-attachments/assets/02bf031d-3e21-4adc-a278-305101508640" />
+
 # windOSTweaks
 
 > A program for tweaking, optimizing, and cleaning your windOS.
