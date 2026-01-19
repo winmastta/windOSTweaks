@@ -1,8 +1,6 @@
-<img width="100" height="100" alt="icons8-icloud-100" src="https://github.com/user-attachments/assets/02bf031d-3e21-4adc-a278-305101508640" />
+# <img width="45" height="45" alt="windOS Tweaks icon" src="https://github.com/user-attachments/assets/02bf031d-3e21-4adc-a278-305101508640" /> windOSTweaks
 
-# windOSTweaks
-
-> A program for tweaking, optimizing, and cleaning your windOS.
+A program for **tweaking**, **optimizing**, and **cleaning** your windOS.
 
 > [!WARNING]
 > This program can ONLY be used with windOS, as it was developed specifically for it.
@@ -17,14 +15,9 @@
 | **Debloat Scripts** | Removal of UWP apps, Cortana, OneDrive, and Edge integration. |
 | **Privacy Tools** | Blocking telemetry hosts and disabling advertising IDs. |
 
-### ⚠️ Warning
-
-These scripts make deep changes to the Windows Registry and System Files.
-
 ### 🏆 Credits
 
 **Maintained by:**
-*   [winmastt](https://github.com/winmastta)
 *   [bbzer0](https://github.com/timinside)
 
 ---
