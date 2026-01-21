@@ -2,6 +2,9 @@
 
 A program for **tweaking**, **optimizing**, and **cleaning** your windOS.
 
+> [!NOTE]
+> The approximate release date for the first release is from mid-February to mid-March.
+
 > [!WARNING]
 > This program can ONLY be used with windOS, as it was developed specifically for it.
 > Instead of windOS Tweaker on a standard Windows system, use FLUX.
