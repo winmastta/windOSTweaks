@@ -7,7 +7,7 @@ A program for **tweaking**, **optimizing**, and **cleaning** your windOS.
 
 > [!WARNING]
 > This program can ONLY be used with windOS, as it was developed specifically for it.
-> Instead of windOS Tweaker on a standard Windows system, use FLUX.
+> Instead of windOS Tweaks on a standard Windows system, use FLUX.
 
 ### ⚙️ What's Inside?
 
